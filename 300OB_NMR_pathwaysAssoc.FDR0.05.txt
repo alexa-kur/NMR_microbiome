@@ -1,0 +1,73 @@
+nmr	path	path.name	path.class	rval	Pval	fdr	fwer
+XL_HDL_P	PWY-5100	PWY-5100: pyruvate fermentation to acetate and lactate II	Fermentation	-0.233027719604901	5.25556988004611e-05	0.0434782608695652	0.61
+XL_HDL_L	PWY-5100	PWY-5100: pyruvate fermentation to acetate and lactate II	Fermentation	-0.235870861709788	4.23273746759052e-05	0.036	0.54
+XL_HDL_C	PWY-5100	PWY-5100: pyruvate fermentation to acetate and lactate II	Fermentation	-0.248368411120089	1.58461472693123e-05	0.02	0.31
+XL_HDL_CE	PWY-5100	PWY-5100: pyruvate fermentation to acetate and lactate II	Fermentation	-0.24396238825769	2.25362772940532e-05	0.0223529411764706	0.37
+XL_HDL_FC	PWY-5100	PWY-5100: pyruvate fermentation to acetate and lactate II	Fermentation	-0.238763015608653	3.38718630622618e-05	0.0308620689655172	0.45
+XL_VLDL_FC_percent	PWY-6609	PWY-6609: adenine and adenosine salvage III	Nucleosides and Nucleotides Biosynthesis	-0.244819407571085	2.1054577634432e-05	0.0227659574468085	0.35
+XL_VLDL_FC_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.232019084368078	5.67146430563633e-05	0.0455555555555556	0.63
+L_VLDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.268317585431679	2.96745797417451e-06	0.00647058823529412	0.07
+L_VLDL_CE_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.251989329170537	1.18071473067706e-05	0.0213333333333333	0.26
+L_VLDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.259506455815181	6.32188172531989e-06	0.0122727272727273	0.11
+M_VLDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.243831842825131	2.27704723565685e-05	0.0223076923076923	0.37
+M_VLDL_CE_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.259260022682841	6.45460990646004e-06	0.0121739130434783	0.12
+S_VLDL_C_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	-0.245149664612752	2.0508644384623e-05	0.0228260869565217	0.35
+S_VLDL_C_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	-0.237663227596114	3.68791290863674e-05	0.0319047619047619	0.5
+S_VLDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.27412250566613	1.7772457417597e-06	0.00357142857142857	0.04
+S_VLDL_CE_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	-0.251904589152911	1.188931574984e-05	0.0209677419354839	0.26
+S_VLDL_CE_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	-0.232737313274226	5.37226517924669e-05	0.0436619718309859	0.61
+S_VLDL_CE_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	-0.247854474364541	1.65161173286834e-05	0.0192857142857143	0.31
+S_VLDL_CE_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.278840921458371	1.16169266261326e-06	0.003	0.02
+S_VLDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.238791414965912	3.37973697486299e-05	0.0314035087719298	0.45
+XS_VLDL_C_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	-0.243042157471688	2.42370755220421e-05	0.0226415094339623	0.38
+XS_VLDL_C_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	-0.24479604680947	2.10937116108373e-05	0.0222916666666667	0.35
+XS_VLDL_C_percent	TCA	TCA: TCA cycle I (prokaryotic)	TCA cycle	0.256442989664466	8.17325741651981e-06	0.0172	0.18
+XS_VLDL_CE_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	-0.244364101746652	2.18298538283909e-05	0.0222	0.37
+XS_VLDL_CE_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	-0.239862803621193	3.10976186219659e-05	0.0294545454545455	0.43
+XS_VLDL_CE_percent	TCA	TCA: TCA cycle I (prokaryotic)	TCA cycle	0.248147170965963	1.61313310859021e-05	0.0195121951219512	0.31
+XS_VLDL_TG_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	0.250716396689551	1.31002540485843e-05	0.0209090909090909	0.26
+XS_VLDL_TG_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	0.247656594972031	1.67811735051657e-05	0.0190697674418605	0.32
+XS_VLDL_TG_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	0.256828671258201	7.91455184011439e-06	0.0175	0.17
+XS_VLDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.267222836014782	3.26447861291774e-06	0.00666666666666667	0.08
+XS_VLDL_TG_percent	TCA	TCA: TCA cycle I (prokaryotic)	TCA cycle	-0.237905538241109	3.61956291401459e-05	0.0319354838709677	0.5
+IDL_C_percent	CITRULBIO-PWY	CITRULBIO-PWY: L-citrulline biosynthesis	Amino Acids Biosynthesis	-0.234416542891119	4.87196004567136e-05	0.041969696969697	0.59
+IDL_C_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	-0.250433777279415	1.34050704320919e-05	0.02	0.26
+IDL_C_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	-0.266271457546625	3.54547340626742e-06	0.0068421052631579	0.08
+IDL_C_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	-0.282476497241598	8.32794235504289e-07	0.0025	0.02
+IDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.310443451383049	5.50756389851925e-08	0	0
+IDL_FC_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.232806937504924	5.34406696549773e-05	0.0437142857142857	0.61
+IDL_TG_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	0.271142405370593	2.31561739787527e-06	0.006	0.06
+IDL_TG_percent	PWY-5667	PWY-5667: CDP-diacylglycerol biosynthesis I	Fatty Acid and Lipid Biosynthesis	0.238684688349118	3.40781262504449e-05	0.0306779661016949	0.46
+IDL_TG_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	0.286856411017485	5.54294986614553e-07	0.00333333333333333	0.02
+IDL_TG_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	0.296995439612889	2.10502620132192e-07	0	0
+IDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.322092684508792	1.63435305136477e-08	0	0
+IDL_TG_percent	PWY0-1319	PWY0-1319: CDP-diacylglycerol biosynthesis II	Fatty Acid and Lipid Biosynthesis	0.24276732498209	2.47681673970509e-05	0.022962962962963	0.39
+L_LDL_C_percent	CITRULBIO-PWY	CITRULBIO-PWY: L-citrulline biosynthesis	Amino Acids Biosynthesis	-0.23831443153477	3.61581820712971e-05	0.0322950819672131	0.49
+L_LDL_C_percent	PWY-5667	PWY-5667: CDP-diacylglycerol biosynthesis I	Fatty Acid and Lipid Biosynthesis	-0.233239340621891	5.17204462671899e-05	0.0435294117647059	0.61
+L_LDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.288816424722465	4.60979749337192e-07	0.004	0.02
+L_LDL_C_percent	PWY0-1319	PWY0-1319: CDP-diacylglycerol biosynthesis II	Fatty Acid and Lipid Biosynthesis	-0.23605408336952	4.17373542174562e-05	0.035625	0.53
+L_LDL_TG_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	0.250352243640834	1.34942526172765e-05	0.0194444444444444	0.26
+L_LDL_TG_percent	PWY-5667	PWY-5667: CDP-diacylglycerol biosynthesis I	Fatty Acid and Lipid Biosynthesis	0.247270455324147	1.73100712779121e-05	0.0191111111111111	0.32
+L_LDL_TG_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	0.276215813128565	1.47311127173544e-06	0.00307692307692308	0.03
+L_LDL_TG_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	0.281421598535692	9.17668994244588e-07	0.00222222222222222	0.02
+L_LDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.322474243615183	1.56925308237281e-08	0	0
+L_LDL_TG_percent	PWY0-1319	PWY0-1319: CDP-diacylglycerol biosynthesis II	Fatty Acid and Lipid Biosynthesis	0.249047247369395	1.5000689035423e-05	0.0202631578947368	0.29
+M_LDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.255401374528891	8.91278717715129e-06	0.0196153846153846	0.2
+M_LDL_TG_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	0.250881754237459	1.29249754824783e-05	0.02125	0.26
+M_LDL_TG_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	0.260489898073791	5.8176524413092e-06	0.0123809523809524	0.1
+M_LDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.278028333397461	1.25063092126727e-06	0.00272727272727273	0.02
+S_LDL_C_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	-0.276538283249693	1.4309376949768e-06	0.00333333333333333	0.03
+S_LDL_TG_percent	GOLPDLCAT-PWY	GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol	Alcohol-Degradation	0.23980325658178	3.12421486168348e-05	0.0291071428571429	0.43
+S_LDL_TG_percent	PWY-6317	PWY-6317: galactose degradation I (Leloir pathway)	Carbohydrates Degradation	0.26268947409887	4.82502404695784e-06	0.011	0.09
+S_LDL_TG_percent	PWY-6527	PWY-6527: stachyose degradation	Carbohydrates Degradation	0.269299653527841	2.72313607475819e-06	0.006875	0.07
+S_LDL_TG_percent	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.285867014054934	6.08040213138832e-07	0.00285714285714286	0.02
+LA_FA_ratio	PWY-6969	PWY-6969: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	TCA cycle	0.244709016521097	2.12401128163267e-05	0.0220408163265306	0.35
+LA_FA_ratio	TCA	TCA: TCA cycle I (prokaryotic)	TCA cycle	0.238660411479203	3.41422966092395e-05	0.0301666666666667	0.46
+MUFA_FA_ratio	TCA	TCA: TCA cycle I (prokaryotic)	TCA cycle	-0.248713325894534	1.54110726314076e-05	0.02	0.29
+Ace	UNINTEGRATED	NA	NA	-0.250600508989771	1.32244383208208e-05	0.0202941176470588	0.26
+Ace	UNMAPPED	NA	NA	0.252923759635169	1.09361501520185e-05	0.0203571428571429	0.23
+Alb	HEME-BIOSYNTHESIS-II	HEME-BIOSYNTHESIS-II: heme biosynthesis I (aerobic)	Porphyrin Compounds Biosynthesis	-0.254184839550693	1.39481800407349e-05	0.0191891891891892	0.26
+Gp	PWY-5004	PWY-5004: superpathway of L-citrulline metabolism	Amino Acids Biosynthesis	-0.26303049328634	1.02280141934392e-05	0.0203703703703704	0.22
+FALen	CITRULBIO-PWY	CITRULBIO-PWY: L-citrulline biosynthesis	Amino Acids Biosynthesis	0.23393300850928	5.05382134261966e-05	0.0425373134328358	0.6
+FALen	PWY0-1296	PWY0-1296: purine ribonucleosides degradation	Nucleosides and Nucleotides Degradation	0.247433980655457	1.70841868032222e-05	0.0190909090909091	0.32
+Pyr	LACTOSECAT-PWY	LACTOSECAT-PWY: lactose and galactose degradation I	Carbohydrates Degradation	0.252053456751443	1.17453249253805e-05	0.0220689655172414	0.26

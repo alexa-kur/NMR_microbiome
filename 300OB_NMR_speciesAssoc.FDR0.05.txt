@@ -1,0 +1,4 @@
+nmr	species	rval	Pval	fdr	fwer
+XXL_VLDL_PL_percent	k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus|s__Ruminococcus_sp_5_1_39BFAA	0.309912413712385	2.24504451325355e-07	0	0
+XL_VLDL_CE_percent	k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus|s__Ruminococcus_sp_5_1_39BFAA	-0.292328092630702	1.24870498606457e-06	0.005	0.01
+L_VLDL_CE_percent	k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus|s__Ruminococcus_sp_5_1_39BFAA	-0.278445706391396	4.02667935459247e-06	0.0266666666666667	0.07
